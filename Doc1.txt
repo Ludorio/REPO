@@ -1,3 +1,11 @@
 
 Ciao Belli!
 Sto provando ad usare il comando 'Vim' come editor
+
+Seconda modifica:
+con 'i' si ha la modalità INSERT
+
+con ESC si esce dalla modalità
+
+':wq' per salva ed esci
+':q' per esci
